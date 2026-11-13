@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Inácio 👋
 
-**Liderança Funcional | Transformação Digital | IA & Automação | Dados & Resultados**
+IA & Automação | Transformação Digital | Dados & Resultados**
 📍 Blumenau, SC · Brasil
 
 Profissional movido por pessoas, dados e melhoria contínua. Conecto áreas de negócio e tecnologia para gerar eficiência, qualidade e escala em processos críticos.
