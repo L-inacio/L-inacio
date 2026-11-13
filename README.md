@@ -1,22 +1,16 @@
 # Lucas Inácio · IA Aplicada & Agentes 🤖
 
-**Construindo soluções com LLMs, agentes e automação para processos reais de negócio.**
+**Construindo soluções com LLMs, agentes e automação para problemas reais de negócio.**
 📍 Blumenau, SC · Brasil
 
-Atuo na ponte entre **negócio e engenharia de IA**: identifico processos críticos, desenho a solução com IA generativa e dados, e levo para produção com governança. Hoje faço isso na [Senior Sistemas](https://www.senior.com.br), liderando a operação de Faturamento (Gestão de Licenças e Conferência de Pedidos).
+Atuo na ponte entre **negócio e engenharia de IA**: entendo o processo, desenho a solução com IA generativa e dados, e levo para produção com governança e métricas. Trabalho na [Senior Sistemas](https://www.senior.com.br), liderando squads e iniciativas de automação, dados e melhoria contínua.
 
-## 🧠 Foco atual
-- **LLMs e IA generativa** aplicados a conferência de documentos e pedidos comerciais
-- **Agentes de IA** e fluxos agênticos para tarefas de back-office
-- **Pipelines de automação**: entrada de dados não estruturados → validação → gravação em sistema
-- **Ferramenta com apoio de IA** para conferência de pedidos e geração automatizada de inputs de proposta
-- **Dados e métricas**: dashboards em Power BI e análises em SQL para medir o resultado da automação
-
-## 🔄 Como eu penso uma solução de IA
-1. **Mapear o processo** e onde está o desperdício (retrabalho, conferência manual)
-2. **Usar o LLM onde ele agrega** (interpretar dados não estruturados) e regras determinísticas onde precisa de garantia
-3. **Validar antes de gravar**: schema, regras de negócio e compliance
-4. **Medir**: horas ganhas, taxa de erro, volume tratado
+## 🧠 Áreas de atuação
+- **LLMs e IA generativa**: aplicação prática em processos e análises
+- **Agentes de IA**: fluxos agênticos, tool use e integração entre sistemas
+- **Pipelines de automação**: ingestão, tratamento, validação e entrega de dados
+- **Dados e BI**: dashboards, indicadores e análises para decisão
+- **Liderança e gestão**: OKRs, projetos e metodologias ágeis
 
 ## 🛠️ Tecnologias
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -27,10 +21,10 @@ Atuo na ponte entre **negócio e engenharia de IA**: identifico processos críti
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## 📚 Estudando e explorando
-- Arquitetura de agentes, tool use e **MCP (Model Context Protocol)**
+- Arquitetura de agentes e **MCP (Model Context Protocol)**
 - RAG, embeddings e bancos vetoriais
 - Avaliação de LLMs (evals), guardrails e saída estruturada
-- Modelos menores (SLMs) e orquestração determinística de fluxos
+- Modelos menores (SLMs) e orquestração de fluxos
 
 ## 🎓 Formação complementar
 - Imersão Agentes IA (Hashtag Treinamentos): n8n e automação com IA
